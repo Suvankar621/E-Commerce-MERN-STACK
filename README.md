@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE PROJECT
 
 Hi! My name is Suvankar Mahato, I have created this Website using MERN Stack.
 
